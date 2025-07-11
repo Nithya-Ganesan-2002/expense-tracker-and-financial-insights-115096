@@ -1,1 +1,3 @@
-# expense-tracker-and-financial-insights-115096
+# Project Repository
+
+This is the initial README file for the project.
